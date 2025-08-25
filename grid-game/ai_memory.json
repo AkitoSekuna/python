@@ -1,0 +1,1347 @@
+{
+  "games": [
+    {
+      "moves": [
+        "south",
+        "west",
+        "east",
+        "south",
+        "south",
+        "south"
+      ],
+      "result": "loss",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "east",
+        "east",
+        "east",
+        "west",
+        "south",
+        "north",
+        "south",
+        "south",
+        "east",
+        "east",
+        "north",
+        "north",
+        "east",
+        "east",
+        "east",
+        "north"
+      ],
+      "result": "win",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "north",
+        "south"
+      ],
+      "result": "loss",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "west",
+        "north",
+        "north",
+        "north",
+        "west",
+        "west",
+        "north",
+        "east",
+        "east"
+      ],
+      "result": "win",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "east",
+        "south",
+        "south",
+        "west",
+        "west",
+        "south",
+        "south",
+        "south",
+        "south",
+        "south",
+        "west",
+        "west"
+      ],
+      "result": "win",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "west",
+        "south",
+        "south",
+        "west",
+        "south",
+        "west",
+        "south"
+      ],
+      "result": "win",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "east",
+        "west",
+        "west",
+        "west",
+        "west",
+        "west",
+        "north",
+        "north",
+        "north",
+        "north",
+        "east",
+        "east",
+        "south",
+        "south",
+        "south",
+        "west",
+        "west",
+        "north",
+        "north",
+        "north",
+        "east",
+        "east",
+        "south",
+        "south",
+        "south",
+        "east",
+        "north",
+        "north",
+        "north",
+        "south",
+        "north",
+        "east",
+        "east",
+        "east",
+        "south",
+        "south",
+        "west",
+        "west",
+        "north",
+        "north",
+        "east",
+        "east",
+        "south",
+        "south",
+        "east",
+        "south",
+        "south",
+        "west",
+        "west",
+        "west",
+        "west",
+        "west",
+        "west",
+        "west",
+        "west",
+        "north",
+        "north",
+        "north"
+      ],
+      "result": "win",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "north",
+        "east",
+        "north",
+        "north",
+        "north",
+        "north"
+      ],
+      "result": "win",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "west",
+        "west",
+        "west",
+        "west",
+        "west",
+        "west",
+        "north",
+        "west",
+        "west",
+        "south",
+        "south"
+      ],
+      "result": "win",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "east",
+        "east",
+        "south",
+        "east",
+        "east",
+        "south",
+        "south",
+        "south",
+        "south",
+        "south",
+        "south",
+        "west",
+        "west",
+        "south"
+      ],
+      "result": "win",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "west",
+        "west",
+        "west",
+        "south",
+        "south"
+      ],
+      "result": "win",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "north",
+        "south",
+        "east",
+        "east",
+        "north",
+        "north"
+      ],
+      "result": "loss",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "north",
+        "west",
+        "west",
+        "south"
+      ],
+      "result": "loss",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "east",
+        "north",
+        "north",
+        "west",
+        "north",
+        "west",
+        "west",
+        "south",
+        "south",
+        "south"
+      ],
+      "result": "win",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "north",
+        "north",
+        "east",
+        "north",
+        "south",
+        "west",
+        "west",
+        "north",
+        "south",
+        "east",
+        "east",
+        "north",
+        "north",
+        "east",
+        "north",
+        "north"
+      ],
+      "result": "win",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "south",
+        "west",
+        "south",
+        "south",
+        "south",
+        "east",
+        "north",
+        "east",
+        "east",
+        "west",
+        "east",
+        "west",
+        "east",
+        "west",
+        "east",
+        "west",
+        "east",
+        "west",
+        "east",
+        "west",
+        "east",
+        "west",
+        "east",
+        "west",
+        "east",
+        "west",
+        "east",
+        "west",
+        "east",
+        "west",
+        "east",
+        "west",
+        "east",
+        "west",
+        "east",
+        "west",
+        "east",
+        "west",
+        "east",
+        "west",
+        "east",
+        "south",
+        "north",
+        "west",
+        "west",
+        "south",
+        "south",
+        "south",
+        "east"
+      ],
+      "result": "win",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "south",
+        "east",
+        "east",
+        "south",
+        "north",
+        "west",
+        "east",
+        "west",
+        "west",
+        "north",
+        "west",
+        "west",
+        "south",
+        "south",
+        "south",
+        "south",
+        "east",
+        "east",
+        "east",
+        "north",
+        "east",
+        "north",
+        "north",
+        "west",
+        "west",
+        "north",
+        "west",
+        "west",
+        "south",
+        "west",
+        "west",
+        "south",
+        "south",
+        "east",
+        "south",
+        "south",
+        "south",
+        "south",
+        "east"
+      ],
+      "result": "win",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "south",
+        "south",
+        "south",
+        "south",
+        "east",
+        "east",
+        "east",
+        "north",
+        "north",
+        "north",
+        "north",
+        "north",
+        "south",
+        "south",
+        "west",
+        "east",
+        "south",
+        "south",
+        "south",
+        "west",
+        "west",
+        "north",
+        "west",
+        "west",
+        "north",
+        "west",
+        "north",
+        "north",
+        "north",
+        "north",
+        "north",
+        "west",
+        "north",
+        "west"
+      ],
+      "result": "win",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "east",
+        "east",
+        "east",
+        "north",
+        "north",
+        "west",
+        "west"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "north",
+        "east",
+        "west",
+        "east",
+        "north",
+        "north",
+        "north",
+        "north",
+        "east"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "west",
+        "west",
+        "south",
+        "south",
+        "south",
+        "west",
+        "west",
+        "west",
+        "west",
+        "north",
+        "north",
+        "north",
+        "north",
+        "north",
+        "north",
+        "north",
+        "west",
+        "west"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 2
+    },
+    {
+      "moves": [
+        "south",
+        "north",
+        "north",
+        "east",
+        "east",
+        "east",
+        "east",
+        "south",
+        "south",
+        "south",
+        "east",
+        "east",
+        "south",
+        "south",
+        "west"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "north",
+        "south",
+        "north",
+        "west",
+        "east",
+        "west"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "south",
+        "west",
+        "west",
+        "south",
+        "south",
+        "west",
+        "south",
+        "west",
+        "west",
+        "west",
+        "north",
+        "north",
+        "west",
+        "north",
+        "east"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 2
+    },
+    {
+      "moves": [
+        "east",
+        "north",
+        "east",
+        "west",
+        "south",
+        "north",
+        "east",
+        "west",
+        "east",
+        "north",
+        "east",
+        "south",
+        "south",
+        "north",
+        "west",
+        "north",
+        "north",
+        "west",
+        "west",
+        "south",
+        "south",
+        "east",
+        "east",
+        "south"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "east",
+        "east",
+        "south",
+        "south",
+        "east",
+        "south",
+        "south",
+        "south",
+        "south",
+        "east",
+        "south"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "east",
+        "north",
+        "north",
+        "west",
+        "north",
+        "east"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "north",
+        "north",
+        "east",
+        "south",
+        "east",
+        "south",
+        "south",
+        "south",
+        "south"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "south",
+        "south",
+        "south",
+        "west",
+        "north",
+        "north",
+        "west",
+        "north",
+        "north",
+        "east",
+        "north",
+        "north",
+        "west",
+        "west",
+        "south",
+        "south",
+        "south",
+        "south",
+        "south",
+        "east",
+        "south"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "west",
+        "south",
+        "north",
+        "west"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "west",
+        "north",
+        "north",
+        "north",
+        "north",
+        "north",
+        "north",
+        "east",
+        "east",
+        "south",
+        "south",
+        "south",
+        "south",
+        "south",
+        "south",
+        "west",
+        "west",
+        "east",
+        "east",
+        "east",
+        "east",
+        "west",
+        "north",
+        "west",
+        "west"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "north",
+        "west",
+        "west",
+        "south",
+        "west",
+        "south",
+        "south",
+        "west",
+        "south",
+        "west",
+        "west"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "west",
+        "west",
+        "north",
+        "west"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "south",
+        "west",
+        "north",
+        "west"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "south",
+        "east",
+        "east",
+        "east",
+        "east",
+        "east",
+        "east",
+        "north",
+        "north",
+        "north",
+        "west",
+        "west",
+        "west",
+        "west",
+        "north",
+        "north",
+        "east",
+        "north",
+        "east",
+        "east",
+        "west",
+        "north",
+        "north",
+        "west",
+        "west",
+        "west",
+        "south",
+        "south",
+        "east",
+        "east",
+        "east",
+        "east",
+        "east",
+        "south"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 2
+    },
+    {
+      "moves": [
+        "north",
+        "south",
+        "south",
+        "south",
+        "north",
+        "north",
+        "west",
+        "north",
+        "west",
+        "north",
+        "north",
+        "east",
+        "north",
+        "west"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "north",
+        "north",
+        "east",
+        "east",
+        "north",
+        "north",
+        "south",
+        "south",
+        "east",
+        "south",
+        "north",
+        "south",
+        "north",
+        "south",
+        "south",
+        "north",
+        "west"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 3
+    },
+    {
+      "moves": [
+        "south",
+        "west",
+        "west",
+        "west",
+        "east",
+        "east",
+        "north"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "west",
+        "east",
+        "east",
+        "north",
+        "north",
+        "north",
+        "north",
+        "north"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "east",
+        "north",
+        "east",
+        "east",
+        "east",
+        "north",
+        "east",
+        "north",
+        "north",
+        "west"
+      ],
+      "result": "win",
+      "grid": 9
+    },
+    {
+      "moves": [
+        "south",
+        "east",
+        "south",
+        "east",
+        "north",
+        "north",
+        "east",
+        "north",
+        "north",
+        "west",
+        "west",
+        "west",
+        "west",
+        "west",
+        "west",
+        "south",
+        "south",
+        "south",
+        "south",
+        "south",
+        "south",
+        "south"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "west",
+        "west",
+        "south",
+        "south",
+        "south",
+        "east",
+        "east",
+        "south",
+        "east",
+        "east",
+        "east",
+        "north",
+        "south",
+        "south",
+        "south",
+        "north",
+        "east",
+        "east",
+        "north",
+        "north",
+        "west",
+        "north"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "east",
+        "west",
+        "south",
+        "south",
+        "south",
+        "west",
+        "west",
+        "west",
+        "west",
+        "north",
+        "west",
+        "north",
+        "east",
+        "east",
+        "east",
+        "north",
+        "south",
+        "west",
+        "west",
+        "north",
+        "north",
+        "north",
+        "east",
+        "east"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "north",
+        "east",
+        "east",
+        "east",
+        "north",
+        "north",
+        "north",
+        "east"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "west",
+        "west",
+        "east",
+        "west",
+        "east",
+        "north",
+        "north"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "north",
+        "east",
+        "north",
+        "west",
+        "north",
+        "north",
+        "east"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "west",
+        "south",
+        "west",
+        "west",
+        "west",
+        "north",
+        "north",
+        "north",
+        "east"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "south",
+        "south",
+        "south",
+        "west",
+        "west"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "west",
+        "east",
+        "north",
+        "east",
+        "north",
+        "north",
+        "north",
+        "north",
+        "west",
+        "west",
+        "west",
+        "west",
+        "north",
+        "east",
+        "south",
+        "south",
+        "east",
+        "west",
+        "west"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "south"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "south",
+        "west",
+        "west"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "south",
+        "south",
+        "south",
+        "north",
+        "east",
+        "north",
+        "east",
+        "east",
+        "east",
+        "east",
+        "south",
+        "south",
+        "south",
+        "south",
+        "south"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "south",
+        "south",
+        "east",
+        "south",
+        "east",
+        "north",
+        "north",
+        "east",
+        "east",
+        "south",
+        "south",
+        "south",
+        "east",
+        "south",
+        "west",
+        "west"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 2
+    },
+    {
+      "moves": [
+        "north",
+        "west",
+        "west"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "west",
+        "west",
+        "west",
+        "west",
+        "north",
+        "south",
+        "south",
+        "west",
+        "west",
+        "north",
+        "north",
+        "east"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "west",
+        "south",
+        "west",
+        "west",
+        "south",
+        "south",
+        "west",
+        "west",
+        "south",
+        "south",
+        "east",
+        "west",
+        "west",
+        "south",
+        "west",
+        "east",
+        "west",
+        "east",
+        "east",
+        "west",
+        "west",
+        "north"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "south",
+        "south",
+        "west",
+        "east",
+        "east",
+        "south",
+        "south",
+        "west"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "south",
+        "west",
+        "west"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "east",
+        "south",
+        "east",
+        "east",
+        "south"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "east",
+        "south",
+        "east",
+        "east",
+        "north",
+        "east",
+        "east",
+        "east",
+        "north",
+        "south"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "north",
+        "north",
+        "west",
+        "west"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "east",
+        "south"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "west",
+        "west",
+        "west",
+        "west",
+        "west",
+        "south"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "west",
+        "west",
+        "west"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "north",
+        "east",
+        "north",
+        "east",
+        "north",
+        "east",
+        "east",
+        "south",
+        "east",
+        "east",
+        "north"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "south",
+        "east",
+        "south",
+        "south",
+        "south",
+        "south",
+        "south"
+      ],
+      "result": "loss",
+      "grid": 9,
+      "successful_traps": 1
+    },
+    {
+      "moves": [
+        "south",
+        "east",
+        "east",
+        "east",
+        "south",
+        "south",
+        "east",
+        "north"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 2
+    },
+    {
+      "moves": [
+        "south",
+        "west"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "west",
+        "west",
+        "west",
+        "east",
+        "north",
+        "north",
+        "south",
+        "south",
+        "west",
+        "west",
+        "north"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 2
+    },
+    {
+      "moves": [
+        "east",
+        "south",
+        "south",
+        "west"
+      ],
+      "result": "win",
+      "grid": 9,
+      "successful_traps": 0
+    },
+    {
+      "moves": [
+        "west",
+        "north",
+        "north",
+        "north"
+      ],
+      "result": "win",
+      "grid": 9
+    }
+  ]
+}
