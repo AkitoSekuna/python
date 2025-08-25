@@ -5,10 +5,6 @@ def example1():
     number = int(input("Enter a number: "))
     print(f"The square of {number} is {number ** 2}.")
 
-#decomment the function calls below to run the examples
-
-#example1() # This function prompts the user for their name and a number, then prints a greeting and the square of the number.
-
 def example2():
     
     #this is a starter code 
@@ -148,3 +144,9 @@ def example4():
 
 
 
+#decomment the function calls below to run the examples
+
+#example1() # This function prompts the user for their name and a number, then prints a greeting and the square of the number.
+#example2() # This function demonstrates a more pythonic way to enumerate tasks in a list.
+#example3() # This function organizes task management into reusable functions.
+#example4() # This function adds persistent storage to the task manager using a JSON file.
